@@ -1,0 +1,15 @@
+[submodule "koragraphics"]
+	path = koragraphics
+	url = https://github.com/lazerlabs/koragraphics.git
+[submodule "koralayer"]
+	path = koralayer
+	url = https://github.com/lazerlabs/koralayer.git
+[submodule "koraos"]
+	path = koraos
+	url = https://github.com/lazerlabs/koraos.git
+[submodule "koraui"]
+	path = koraui
+	url = https://github.com/lazerlabs/koraui.git
+[submodule "koralibc"]
+	path = koralibc
+	url = https://github.com/lazerlabs/koralibc.git
